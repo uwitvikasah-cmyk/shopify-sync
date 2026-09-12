@@ -1,0 +1,8 @@
+{
+  "name": "shopify-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetches Shopify blogs and pages via Storefront API and serves as JSON for cross-domain use.",
+  "scripts": {},
+  "dependencies": {}
+}
